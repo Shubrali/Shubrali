@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shubrali
 - 👀 I’m interested in coding,reading and psychology, physics
 - 🌱 I’m currently learning python AI/ML
-- 💞️ I’m looking to collaborate on any python project
 - 📫 How to reach me: shubralijain@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can read upto 5 hr straight
